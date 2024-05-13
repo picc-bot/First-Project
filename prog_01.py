@@ -9,5 +9,5 @@ area = length * width
 perimeter = 2 * (length + width)
 
 # Display the results
-print(f"The area of the rectangle is: {area}")
-print(f"The perimeter of the rectangle is: {perimeter}")
+print(f"The Area of the rectangle is: {area}")
+print(f"The Perimeter of the rectangle is: {perimeter}")
